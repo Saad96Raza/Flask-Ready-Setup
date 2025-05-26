@@ -1,0 +1,28 @@
+
+/* ======== */
+/* Main CSS */
+/* ======== */
+
+
+// Abstracts
+@use "abstracts" as *;
+// Base
+@use "base" as *;
+// Components
+@use "components" as *;
+// Layouts
+@use "layouts" as *;
+// Pages
+@use "pages" as *;
+
+
+
+/* ======== */
+/* Main TAILWINDCSS DECORATIVES */
+/* ======== */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+

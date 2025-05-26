@@ -1,0 +1,197 @@
+{
+  "status": "done",
+  "assets": {
+    "css/main.css": {
+      "name": "css/main.css",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\css\\main.css",
+      "publicPath": "/assets/dist/css/main.css"
+    },
+    "fonts/Raleway-Black-900.ttf": {
+      "name": "fonts/Raleway-Black-900.ttf",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Black-900.ttf",
+      "publicPath": "/assets/dist/fonts/Raleway-Black-900.ttf",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Black-900.ttf"
+    },
+    "fonts/Raleway-Black-900.woff": {
+      "name": "fonts/Raleway-Black-900.woff",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Black-900.woff",
+      "publicPath": "/assets/dist/fonts/Raleway-Black-900.woff",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Black-900.woff"
+    },
+    "fonts/Raleway-Black-900.woff2": {
+      "name": "fonts/Raleway-Black-900.woff2",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Black-900.woff2",
+      "publicPath": "/assets/dist/fonts/Raleway-Black-900.woff2",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Black-900.woff2"
+    },
+    "fonts/Raleway-Bold-700.ttf": {
+      "name": "fonts/Raleway-Bold-700.ttf",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Bold-700.ttf",
+      "publicPath": "/assets/dist/fonts/Raleway-Bold-700.ttf",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Bold-700.ttf"
+    },
+    "fonts/Raleway-Bold-700.woff": {
+      "name": "fonts/Raleway-Bold-700.woff",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Bold-700.woff",
+      "publicPath": "/assets/dist/fonts/Raleway-Bold-700.woff",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Bold-700.woff"
+    },
+    "fonts/Raleway-Bold-700.woff2": {
+      "name": "fonts/Raleway-Bold-700.woff2",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Bold-700.woff2",
+      "publicPath": "/assets/dist/fonts/Raleway-Bold-700.woff2",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Bold-700.woff2"
+    },
+    "fonts/Raleway-Extrabold-800.ttf": {
+      "name": "fonts/Raleway-Extrabold-800.ttf",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Extrabold-800.ttf",
+      "publicPath": "/assets/dist/fonts/Raleway-Extrabold-800.ttf",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Extrabold-800.ttf"
+    },
+    "fonts/Raleway-Extrabold-800.woff": {
+      "name": "fonts/Raleway-Extrabold-800.woff",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Extrabold-800.woff",
+      "publicPath": "/assets/dist/fonts/Raleway-Extrabold-800.woff",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Extrabold-800.woff"
+    },
+    "fonts/Raleway-Extrabold-800.woff2": {
+      "name": "fonts/Raleway-Extrabold-800.woff2",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Extrabold-800.woff2",
+      "publicPath": "/assets/dist/fonts/Raleway-Extrabold-800.woff2",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Extrabold-800.woff2"
+    },
+    "fonts/Raleway-Extralight-200.ttf": {
+      "name": "fonts/Raleway-Extralight-200.ttf",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Extralight-200.ttf",
+      "publicPath": "/assets/dist/fonts/Raleway-Extralight-200.ttf",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Extralight-200.ttf"
+    },
+    "fonts/Raleway-Extralight-200.woff": {
+      "name": "fonts/Raleway-Extralight-200.woff",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Extralight-200.woff",
+      "publicPath": "/assets/dist/fonts/Raleway-Extralight-200.woff",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Extralight-200.woff"
+    },
+    "fonts/Raleway-Extralight-200.woff2": {
+      "name": "fonts/Raleway-Extralight-200.woff2",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Extralight-200.woff2",
+      "publicPath": "/assets/dist/fonts/Raleway-Extralight-200.woff2",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Extralight-200.woff2"
+    },
+    "fonts/Raleway-Light-300.ttf": {
+      "name": "fonts/Raleway-Light-300.ttf",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Light-300.ttf",
+      "publicPath": "/assets/dist/fonts/Raleway-Light-300.ttf",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Light-300.ttf"
+    },
+    "fonts/Raleway-Light-300.woff": {
+      "name": "fonts/Raleway-Light-300.woff",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Light-300.woff",
+      "publicPath": "/assets/dist/fonts/Raleway-Light-300.woff",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Light-300.woff"
+    },
+    "fonts/Raleway-Light-300.woff2": {
+      "name": "fonts/Raleway-Light-300.woff2",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Light-300.woff2",
+      "publicPath": "/assets/dist/fonts/Raleway-Light-300.woff2",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Light-300.woff2"
+    },
+    "fonts/Raleway-Medium-500.ttf": {
+      "name": "fonts/Raleway-Medium-500.ttf",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Medium-500.ttf",
+      "publicPath": "/assets/dist/fonts/Raleway-Medium-500.ttf",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Medium-500.ttf"
+    },
+    "fonts/Raleway-Medium-500.woff": {
+      "name": "fonts/Raleway-Medium-500.woff",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Medium-500.woff",
+      "publicPath": "/assets/dist/fonts/Raleway-Medium-500.woff",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Medium-500.woff"
+    },
+    "fonts/Raleway-Medium-500.woff2": {
+      "name": "fonts/Raleway-Medium-500.woff2",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Medium-500.woff2",
+      "publicPath": "/assets/dist/fonts/Raleway-Medium-500.woff2",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Medium-500.woff2"
+    },
+    "fonts/Raleway-Regular-400.ttf": {
+      "name": "fonts/Raleway-Regular-400.ttf",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Regular-400.ttf",
+      "publicPath": "/assets/dist/fonts/Raleway-Regular-400.ttf",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Regular-400.ttf"
+    },
+    "fonts/Raleway-Regular-400.woff": {
+      "name": "fonts/Raleway-Regular-400.woff",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Regular-400.woff",
+      "publicPath": "/assets/dist/fonts/Raleway-Regular-400.woff",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Regular-400.woff"
+    },
+    "fonts/Raleway-Regular-400.woff2": {
+      "name": "fonts/Raleway-Regular-400.woff2",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Regular-400.woff2",
+      "publicPath": "/assets/dist/fonts/Raleway-Regular-400.woff2",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Regular-400.woff2"
+    },
+    "fonts/Raleway-Semibold-600.ttf": {
+      "name": "fonts/Raleway-Semibold-600.ttf",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Semibold-600.ttf",
+      "publicPath": "/assets/dist/fonts/Raleway-Semibold-600.ttf",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Semibold-600.ttf"
+    },
+    "fonts/Raleway-Semibold-600.woff": {
+      "name": "fonts/Raleway-Semibold-600.woff",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Semibold-600.woff",
+      "publicPath": "/assets/dist/fonts/Raleway-Semibold-600.woff",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Semibold-600.woff"
+    },
+    "fonts/Raleway-Semibold-600.woff2": {
+      "name": "fonts/Raleway-Semibold-600.woff2",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Semibold-600.woff2",
+      "publicPath": "/assets/dist/fonts/Raleway-Semibold-600.woff2",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Semibold-600.woff2"
+    },
+    "fonts/Raleway-Thin-100.ttf": {
+      "name": "fonts/Raleway-Thin-100.ttf",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Thin-100.ttf",
+      "publicPath": "/assets/dist/fonts/Raleway-Thin-100.ttf",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Thin-100.ttf"
+    },
+    "fonts/Raleway-Thin-100.woff": {
+      "name": "fonts/Raleway-Thin-100.woff",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Thin-100.woff",
+      "publicPath": "/assets/dist/fonts/Raleway-Thin-100.woff",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Thin-100.woff"
+    },
+    "fonts/Raleway-Thin-100.woff2": {
+      "name": "fonts/Raleway-Thin-100.woff2",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Raleway-Thin-100.woff2",
+      "publicPath": "/assets/dist/fonts/Raleway-Thin-100.woff2",
+      "sourceFilename": "assets/fonts/Ralway/Raleway-Thin-100.woff2"
+    },
+    "js/main.js": {
+      "name": "js/main.js",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\js\\main.js",
+      "publicPath": "/assets/dist/js/main.js"
+    },
+    "manifest.json": {
+      "name": "manifest.json",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\manifest.json",
+      "publicPath": "/assets/dist/manifest.json"
+    },
+    "media/default.png": {
+      "name": "media/default.png",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\media\\default.png",
+      "publicPath": "/assets/dist/media/default.png",
+      "sourceFilename": "assets/media/default.png"
+    }
+  },
+  "chunks": {
+    "main": [
+      "css/main.css",
+      "js/main.js"
+    ]
+  },
+  "publicPath": "/assets/dist/",
+  "error": "ModuleBuildError",
+  "message": "Module build failed (from ./node_modules/sass-loader/dist/cjs.js):\nCan't find stylesheet to import.\n  ╷\n6 │ @forward 'barba';\r\n  │ ^^^^^^^^^^^^^^^^\n  ╵\n  assets\\scss\\components\\_index.scss 6:1  @use\n  assets\\scss\\main.scss 12:1              root stylesheet"
+}
