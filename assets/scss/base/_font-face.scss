@@ -23,3 +23,12 @@
 @include font-face($font-name, "../fonts/Ralway/Raleway-Extrabold-800", 800, "normal", woff2 woff ttf);
 /* Blackbold */
 @include font-face($font-name, "../fonts/Ralway/Raleway-Black-900", 900, "normal", woff2 woff ttf);
+
+
+@include font-face($font-suisse, "../fonts/Suisse/Suisse_Intl_Light", 300, "normal", ttf);
+
+@include font-face($font-suisse , "../fonts/Suisse/Suisse_Intl_Regular", 400, "normal", ttf);
+
+@include font-face($font-suisse, "../fonts/Suisse/Suisse_Intl_Medium", 500, "normal", ttf);
+
+@include font-face($font-suisse, "../fonts/Suisse/Suisse_Intl_Bold", 700, "normal", ttf);

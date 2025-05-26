@@ -168,6 +168,30 @@
       "publicPath": "/assets/dist/fonts/Raleway-Thin-100.woff2",
       "sourceFilename": "assets/fonts/Ralway/Raleway-Thin-100.woff2"
     },
+    "fonts/Suisse_Intl_Bold.ttf": {
+      "name": "fonts/Suisse_Intl_Bold.ttf",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Suisse_Intl_Bold.ttf",
+      "publicPath": "/assets/dist/fonts/Suisse_Intl_Bold.ttf",
+      "sourceFilename": "assets/fonts/Suisse/Suisse_Intl_Bold.ttf"
+    },
+    "fonts/Suisse_Intl_Light.ttf": {
+      "name": "fonts/Suisse_Intl_Light.ttf",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Suisse_Intl_Light.ttf",
+      "publicPath": "/assets/dist/fonts/Suisse_Intl_Light.ttf",
+      "sourceFilename": "assets/fonts/Suisse/Suisse_Intl_Light.ttf"
+    },
+    "fonts/Suisse_Intl_Medium.ttf": {
+      "name": "fonts/Suisse_Intl_Medium.ttf",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Suisse_Intl_Medium.ttf",
+      "publicPath": "/assets/dist/fonts/Suisse_Intl_Medium.ttf",
+      "sourceFilename": "assets/fonts/Suisse/Suisse_Intl_Medium.ttf"
+    },
+    "fonts/Suisse_Intl_Regular.ttf": {
+      "name": "fonts/Suisse_Intl_Regular.ttf",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\fonts\\Suisse_Intl_Regular.ttf",
+      "publicPath": "/assets/dist/fonts/Suisse_Intl_Regular.ttf",
+      "sourceFilename": "assets/fonts/Suisse/Suisse_Intl_Regular.ttf"
+    },
     "js/main.js": {
       "name": "js/main.js",
       "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\js\\main.js",
@@ -183,6 +207,12 @@
       "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\media\\default.png",
       "publicPath": "/assets/dist/media/default.png",
       "sourceFilename": "assets/media/default.png"
+    },
+    "media/video/abstract.mp4": {
+      "name": "media/video/abstract.mp4",
+      "path": "C:\\Users\\Saad Raza\\OneDrive\\Desktop\\flask\\assets\\dist\\media\\video\\abstract.mp4",
+      "publicPath": "/assets/dist/media/video/abstract.mp4",
+      "sourceFilename": "assets/media/video/abstract.mp4"
     }
   },
   "chunks": {
@@ -191,7 +221,5 @@
       "js/main.js"
     ]
   },
-  "publicPath": "/assets/dist/",
-  "error": "ModuleBuildError",
-  "message": "Module build failed (from ./node_modules/sass-loader/dist/cjs.js):\nCan't find stylesheet to import.\n  ╷\n6 │ @forward 'barba';\r\n  │ ^^^^^^^^^^^^^^^^\n  ╵\n  assets\\scss\\components\\_index.scss 6:1  @use\n  assets\\scss\\main.scss 12:1              root stylesheet"
+  "publicPath": "/assets/dist/"
 }

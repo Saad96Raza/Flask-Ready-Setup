@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+import   fluid ,{ screens, fontSize } from 'fluid-tailwind'
 import daisyui from 'daisyui'
 
 module.exports = {
@@ -7,10 +8,16 @@ module.exports = {
     './assets/**/*.js', 
   ],
   theme: {
+    screens,
+    fontSize,
+    container: {
+      center: true,
+    },
     extend: {},
   },
   plugins: [
-     daisyui
+    fluid,
+    daisyui
   ],
   corePlugins: {
     preflight: true, /** Ensure it's enabled */
